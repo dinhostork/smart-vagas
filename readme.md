@@ -17,7 +17,7 @@ The platform allows, among other things:
 
 ## Modules:
 
-The Smart Vacancies platform is divided into 4 modules with their respective repositories.
+The platform is divided into 4 modules with their respective repositories.
 
 - [Index](https://github.com/dinhostork/smart-vagas)
 - [Smart Vagas Backend](https://github.com/dinhostork/smart-vagas-backend)
